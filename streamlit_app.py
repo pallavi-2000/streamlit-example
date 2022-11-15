@@ -1,6 +1,3 @@
-pip install pygame
-#2D Graphics library
-
 import pygame
 import math
 pygame.init()
